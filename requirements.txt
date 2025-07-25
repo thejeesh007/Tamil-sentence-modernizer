@@ -1,0 +1,7 @@
+spacy
+nltk
+indic-nlp-library
+inltk
+pandas
+pyyaml
+streamlit  # or gradio
