@@ -29,7 +29,9 @@ Classical Tamil literature, though rich in heritage and depth, can be hard to in
    git clone https://github.com/yourusername/tamil-modernizer.git
    cd tamil-modernizer
 2. **Install dependencies**:
+   ```bash
    pip install -r requirements.txt
 
 4. **Run the app**:
+   ```bash
    streamlit run app.py
