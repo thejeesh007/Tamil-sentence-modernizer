@@ -21,7 +21,7 @@ Classical Tamil literature, though rich in heritage and depth, can be hard to in
 - **Translation Model:** Custom-trained or fine-tuned transformer (e.g., BERT, mBART)  
 - **Streamlit** (optional – for frontend interface)  
 - **Git/GitHub** – version control
-- 
+
 ## Screenshot
 
 ## 🧪 How to Run
