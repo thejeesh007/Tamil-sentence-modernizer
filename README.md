@@ -23,6 +23,9 @@ Classical Tamil literature, though rich in heritage and depth, can be hard to in
 - **Git/GitHub** – version control
 
 ## Screenshot
+<img width="1790" height="609" alt="image" src="https://github.com/user-attachments/assets/3ac93ea9-f109-4a70-909d-2243c322db78" />
+<img width="1795" height="747" alt="image" src="https://github.com/user-attachments/assets/36cd51e8-a463-48f9-b8ed-0c2dcbe2ef79" />
+
 
 ## 🧪 How to Run
 
