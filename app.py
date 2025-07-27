@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 st.title(" Tamil Classical Text Modernizer")
-st.markdown("Convert classical Tamil text to modern conversational Tamil with AI assistance")
+st.markdown("Convert classical Tamil text to modern conversational Tamil with the help of AI assistance")
 
 # Input text area (full width now)
 input_text = st.text_area(
